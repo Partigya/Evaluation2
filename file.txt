@@ -1,1 +1,3 @@
 i am doing demo on different commands
+Can we add multiple origins localy 
+yes or No
